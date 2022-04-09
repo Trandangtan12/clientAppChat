@@ -7,7 +7,6 @@ import { Box } from "@mui/system";
 import InfoBar from "./components/InfoBar/InfoBar";
 import InputChat from "./components/InputChat/InputChat";
 import Messages from "./components/Messages/Messages";
-import sound from "../../mp3/mgs_alert.mp3";
 
 let socket;
 const ENDPOINT = "https://appchat25022021.herokuapp.com/";
